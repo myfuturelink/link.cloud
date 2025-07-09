@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f4f4f4;
+      padding: 50px;
+    }
+    .link {
+      background: #4CAF50;
+      color: white;
+      padding: 15px;
+      margin: 10px;
+      display: block;
+      text-decoration: none;
+      border-radius: 8px;
+      max-width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+<h1>My Links</h1>
+<a class="link" href="http://www.youtube.com/@lokeshfuturegamer4234/">YouTube</a>
+<a class="link" href="https://www.instagram.com/infinite_crazy.things?igsh=MTE2eGl2dzNiemFxcQ==/">Instagram</a>
+<a class="link" href="https://whatsapp.com/channel/0029VaHpbCo3rZZWgUGFuT1d/">Whatsapp</a>
+<a class="link" href="https://t.me/vaasutechdeals/">Telegram</a>
+</body>
+</html>
